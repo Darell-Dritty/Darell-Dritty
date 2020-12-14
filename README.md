@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-<img src="https://novatorem-lovat-rho.vercel.app/api/spotify-playing" alt="Darell Spotify Playing" width="350" />
+[![Spotify](https://darellke.vercel.app/api/spotify)](https://open.spotify.com/user/darellke)
 
 ### Connect with me:
 
