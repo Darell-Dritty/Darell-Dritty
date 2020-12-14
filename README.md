@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://darellke.vercel.app/api/spotify)](https://open.spotify.com/user/darellke)
+[![Spotify](https://novatorem-lovat-rho.vercel.app/api/spotify)](https://open.spotify.com/user/darellke)
 
 ### Connect with me:
 
